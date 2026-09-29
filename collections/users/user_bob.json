@@ -1,0 +1,13 @@
+{
+  "name": "Bob Smith",
+  "email": "bob@example.com",
+  "role": "developer",
+  "age": 24,
+  "tags": [
+    "frontend",
+    "react"
+  ],
+  "_id": "user_bob",
+  "_created_at": "2026-09-29T05:30:44.178043Z",
+  "_updated_at": "2026-09-29T05:30:44.178043Z"
+}
